@@ -43,8 +43,11 @@ h1 {
 .img1{
     width: 90%;
     padding-top: 15%;
+}
 
-
+.img2{
+    width: 80%;
+    padding-top: 15%;
 }
 
 
@@ -69,4 +72,28 @@ p {
     
 
 
+}
+
+#biography-bg{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+
+}
+
+.bio-h1{
+    padding-left: 3%;
+    padding-top: 35%;
+}
+
+.bio-p{
+    padding-left: 3%;
+    padding-right: 35%;
+}
+
+.bio-link-button{
+    margin-left: 3%;
 }
