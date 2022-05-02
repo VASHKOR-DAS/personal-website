@@ -1,0 +1,58 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+section {
+    height: 500px;
+}
+
+#section1-bg {
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+
+
+
+h1 {
+    font-size: 50px;
+    padding-left: 60%;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 500;
+    padding-left: 25%;
+    padding-left: 60%;
+    padding-top: 25%;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    padding-left: 5%;
+
+
+}
+
+.img1{
+    width: 100%;
+    padding-top: 12.5%;
+
+
+}
+
+
+.orange-highlight {
+    color: crimson;
+}
+
+p {
+    color: dimgrey;
+    padding-left: 60%;
+}
